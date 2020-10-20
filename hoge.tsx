@@ -1,1 +1,1 @@
-hogehogehoge
+Ruby on Rails
