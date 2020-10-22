@@ -1,2 +1,3 @@
 Ruby on Rails
-React Redux
+HTML/CSS
+Bootstrap
